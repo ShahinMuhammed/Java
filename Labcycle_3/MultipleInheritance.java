@@ -75,7 +75,7 @@ class Teachers extends Employee{
     }
 }
 
-class MultipleInheritance{
+class MultiLevelInheritance{
 
  public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
