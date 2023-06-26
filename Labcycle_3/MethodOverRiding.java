@@ -23,7 +23,7 @@ class Circle extends Square{
         System.out.println();
     }
 }
-class MethodRiding{
+class MethodOverRiding{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the radius of the circle:");
